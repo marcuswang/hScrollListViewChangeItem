@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../HorizontalVariableListView-development/HorizontalVariableListView/HorizontalVariableListView.iml" filepath="$PROJECT_DIR$/../HorizontalVariableListView-development/HorizontalVariableListView/HorizontalVariableListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hScrollListViewChangeItem.iml" filepath="$PROJECT_DIR$/hScrollListViewChangeItem.iml" />
+    </modules>
+  </component>
+</project>
+
